@@ -1,0 +1,19 @@
+# Python cache files
+pycache/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# Django local database
+db.sqlite3
+
+# Environment variables and secrets
+.env
+
+# User uploaded files (if you add media later)
+media/
+
+# OS and Editor files
+.vscode/
